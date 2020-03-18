@@ -46,7 +46,7 @@ def pgd_k(x, preds, loss_fn, y=None, eps=None, model=None, steps=3, gamma=None, 
     return x_adv
 
 
-# Performing PGD on k-th branch loss
+# Performing PGD on average of  branch losses
 def pgd_avg(x, preds, loss_fn, y=None, eps=None, model=None, steps=3, gamma=None, randinit=False, **kwargs):
     x_adv = x.clone()
     if randinit:
