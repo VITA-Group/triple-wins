@@ -15,9 +15,9 @@ This code requires `Pytorch 1.1.0`
 upload mnist code -- 2020/03/17
 
 ### TODOS
-upload mnist pretrained model
+upload mnist pretrained model ( Done on 10/01/2021)
 
-upload cifar code 
+upload cifar code ( Done on 10/01/2021)
 
-upload cifar pretrained model
+upload cifar pretrained model ( Done on 10/01/2021)
 
