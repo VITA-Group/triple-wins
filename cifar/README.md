@@ -1,2 +1,2 @@
 ## Description
-The page contains reproducible code for MNIST experiments.
+The page contains reproducible code for C experiments.
